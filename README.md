@@ -120,6 +120,7 @@
 
 - [Kafka Connect](https://iceberg.apache.org/docs/latest/kafka-connect/) ✅ — потоковая запись событий в Iceberg-таблицы.
 - [Debezium → Iceberg](https://memiiso.github.io/debezium-server-iceberg/) ✅ — CDC из баз данных в Iceberg через Debezium Server.
+- [OLake](https://github.com/datazip-inc/olake) — open-source CDC-репликация из Postgres, MySQL, MongoDB, Oracle, SQL Server и Kafka напрямую в Iceberg-таблицы, с компакцией и очисткой снапшотов (Go).
 
 ## Инструменты и утилиты
 
